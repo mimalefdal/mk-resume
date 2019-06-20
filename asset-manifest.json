@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mk-resume/static/css/main.f2ca45b2.chunk.css",
+    "main.js": "/mk-resume/static/js/main.0ae4c098.chunk.js",
+    "main.js.map": "/mk-resume/static/js/main.0ae4c098.chunk.js.map",
+    "runtime~main.js": "/mk-resume/static/js/runtime~main.1ea4a0d4.js",
+    "runtime~main.js.map": "/mk-resume/static/js/runtime~main.1ea4a0d4.js.map",
+    "static/js/2.9b082b92.chunk.js": "/mk-resume/static/js/2.9b082b92.chunk.js",
+    "static/js/2.9b082b92.chunk.js.map": "/mk-resume/static/js/2.9b082b92.chunk.js.map",
+    "index.html": "/mk-resume/index.html",
+    "precache-manifest.88c4b771180c5479f70a10032b2f24e0.js": "/mk-resume/precache-manifest.88c4b771180c5479f70a10032b2f24e0.js",
+    "service-worker.js": "/mk-resume/service-worker.js",
+    "static/css/main.f2ca45b2.chunk.css.map": "/mk-resume/static/css/main.f2ca45b2.chunk.css.map",
+    "static/media/arrow-down.svg": "/mk-resume/static/media/arrow-down.d4438dbd.svg",
+    "static/media/magic-wand.svg": "/mk-resume/static/media/magic-wand.5436decf.svg"
+  }
+}
