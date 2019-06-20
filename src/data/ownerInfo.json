@@ -1,0 +1,49 @@
+{
+  "PersonalInfo": {
+    "name": "Amin",
+    "Family": "Delvarani",
+    "University": "",
+    "mainTitles": "Fullstack Developer | Mobile App Developer",
+    "mediaLinks": {
+      "linkedin": "https://linkedin.com/in/amin-delvarani",
+      "github": "https://github.com/mimalefdal",
+      "twitter": "https://twitter.com/mimalefdal"
+    }
+  },
+  "About": {
+    "title": "Precise Engineering",
+    "detail": "I was graduated in 2002 in computer Architecture. I love both HW & SW fields. ncjsndc jsdndcksjndc sc sjdnc sdnc nsdcjns djn snc sdnc snc sdcn sdkndkcsd sdsd sf sdf W fields. ncjsndc jsdndcksjndc sc sjdnc sdnc nsdcjns djn snc sdnc snc sdcn sdkndkcsd sdsd sf sdf"
+  },
+  "Skills": {
+    "reactJS": {
+      "title": "React JS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      "comment": ""
+    },
+    "reactNative": {
+      "title": "React Native",
+      "image": "",
+      "comment": ""
+    },
+    "Laravel": {
+      "title": "PHP Laravel",
+      "image": "",
+      "comment": ""
+    },
+    "Redux": {
+      "title": "Redux",
+      "image": "",
+      "comment": ""
+    },
+    "AndroidStudio": {
+      "title": "Android Programming",
+      "image": "",
+      "comment": ""
+    },
+    "ExcelAutomation": {
+      "title": "Excel VB Automation",
+      "image": "",
+      "comment": ""
+    }
+  }
+}

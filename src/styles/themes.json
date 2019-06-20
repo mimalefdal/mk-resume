@@ -1,0 +1,27 @@
+{
+  "theme_1": {
+    "code": "1",
+    "--bkg-color": "#25274d",
+    "--navbar-bkg": "rgba(25,25,25,0.5)",
+    "--main-text-color": "white",
+    "--alt-text-color": "orange",
+    "--navbar-txt-color": "white",
+    "--skill-card-bkg-color": "grey"
+  },
+  "theme_2": {
+    "code": "2",
+    "--bkg-color": "#5cdb95",
+    "--main-text-color": "#05386b",
+    "--alt-text-color": "white",
+    "--navbar-txt-color": "white",
+    "--skill-card-bkg-color": "#05386b"
+  },
+  "theme_3": {
+    "code": "3",
+    "--bkg-color": "#222629",
+    "--main-text-color": "#86c232",
+    "--alt-text-color": "white",
+    "--navbar-txt-color": "white",
+    "--skill-card-bkg-color": "#86c232"
+  }
+}

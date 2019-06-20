@@ -1,0 +1,98 @@
+:root {
+  --bkg-color: red;
+  --main-text-color: aliceblue;
+  --alt-text-color: #521;
+  --skill-card-bkg-color: yellow;
+}
+
+.body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /* vertical-align: middle; */
+  min-height: 100vh;
+  width: 100vw;
+  /* font-family: "Ubuntu", sans-serif; */
+  /* font-family: "Noto Sans HK", sans-serif; */
+  font-family: "PT Sans Narrow", sans-serif;
+  /* font-family: "Dosis", sans-serif; */
+  /* font-family: "Libre Baskerville", serif; */
+  /* font-family: "Anton", sans-serif; */
+  background-color: var(--bkg-color);
+}
+
+.greeting {
+  font-size: 5vmax;
+  color: var(--main-text-color);
+}
+
+.mainJobTitles {
+  font-size: 2.5vmax;
+  color: var(--alt-text-color);
+}
+
+.linksDiv {
+  margin-top: 5px;
+}
+
+.links {
+  margin: 10px;
+}
+.aboutBody {
+  text-align: left;
+  width: 60vw;
+}
+
+.about {
+  font-size: 4vmax;
+  color: var(--main-text-color);
+}
+
+.aboutTitle {
+  font-size: 3vmax;
+  color: var(--alt-text-color);
+}
+
+.aboutDetail {
+  color: #ccc;
+  font-size: 2vmax;
+  text-align: justify;
+  color: var(--alt-text-color);
+}
+
+.skillsBody {
+  justify-content: flex-start;
+  margin: auto;
+  /* height: 60vh; */
+}
+
+.mySkills {
+  font-size: 4vmax;
+  color: var(--main-text-color);
+}
+
+.skillCardsBody {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 60vw;
+}
+
+.skillCard {
+  background: var(--skill-card-bkg-color);
+  opacity: 0.8;
+  padding: 20px;
+  margin: 5px;
+  width: 8vmax;
+  height: 12vmax;
+  color: var(--alt-text-color);
+  font-size: 1.5vw;
+}
+.scrollicon {
+  height: 3vh;
+  width: 3vh;
+  margin-bottom: 8vh;
+}

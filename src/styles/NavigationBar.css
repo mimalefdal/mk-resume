@@ -1,0 +1,12 @@
+:root {
+  --navbar-bkg: rgba(25, 25, 25, 0.5);
+  --navbar-txt-color: black;
+}
+.navBody {
+  position: fixed;
+  width: 100vw;
+  height: 8vh;
+  background-color: var(--navbar-bkg);
+  font-family: "PT Sans Narrow", sans-serif;
+  color: var(--navbar-txt-color);
+}
